@@ -1,17 +1,93 @@
 {
- "generated_at": "2026-10-24T15:44:17+00:00",
+ "generated_at": "2026-10-24T15:57:46+00:00",
  "sources": [
   {
-   "source": "Curated seed list (live sources run on the next daily refresh)",
+   "source": "SimplifyJobs Summer 2027 list",
    "ok": true,
-   "count": 17,
-   "at": "2026-10-24"
+   "count": 17416,
+   "at": "2026-10-24T15:54:56+00:00"
+  },
+  {
+   "source": "Zipline (Greenhouse)",
+   "ok": true,
+   "count": 77,
+   "at": "2026-10-24T15:54:56+00:00"
+  },
+  {
+   "source": "Etched (Greenhouse)",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/etched/jobs?content=true",
+   "at": "2026-10-24T15:54:56+00:00"
+  },
+  {
+   "source": "Verkada (Greenhouse)",
+   "ok": true,
+   "count": 8,
+   "at": "2026-10-24T15:54:56+00:00"
+  },
+  {
+   "source": "Anduril (Greenhouse)",
+   "ok": true,
+   "count": 50,
+   "at": "2026-10-24T15:54:57+00:00"
+  },
+  {
+   "source": "Skydio (Greenhouse)",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/skydio/jobs?content=true",
+   "at": "2026-10-24T15:54:58+00:00"
+  },
+  {
+   "source": "Astera Labs (Greenhouse)",
+   "ok": true,
+   "count": 2,
+   "at": "2026-10-24T15:54:58+00:00"
+  },
+  {
+   "source": "Pivotal (Lever)",
+   "ok": true,
+   "count": 2,
+   "at": "2026-10-24T15:54:58+00:00"
+  },
+  {
+   "source": "NVIDIA (Workday)",
+   "ok": true,
+   "count": 182,
+   "at": "2026-10-24T15:55:10+00:00"
+  },
+  {
+   "source": "Intel (Workday)",
+   "ok": true,
+   "count": 39,
+   "at": "2026-10-24T15:56:07+00:00"
+  },
+  {
+   "source": "Marvell (Workday)",
+   "ok": true,
+   "count": 38,
+   "at": "2026-10-24T15:57:03+00:00"
+  },
+  {
+   "source": "Western Digital (Workday)",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://wd.wd1.myworkdayjobs.com/wday/cxs/wd/WD_External/jobs",
+   "at": "2026-10-24T15:57:45+00:00"
+  },
+  {
+   "source": "Sandisk (Workday)",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://sandisk.wd1.myworkdayjobs.com/wday/cxs/sandisk/Sandisk/jobs",
+   "at": "2026-10-24T15:57:45+00:00"
   }
  ],
  "counts": {
-  "total": 17,
-  "eligible": 15,
-  "new_today": 15
+  "total": 5748,
+  "eligible": 424,
+  "new_today": 424
  },
  "candidate": {
   "name": "Aryan Upadhyaya",
