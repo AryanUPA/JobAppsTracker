@@ -1,0 +1,64 @@
+name: Daily refresh
+
+on:
+  schedule:
+    - cron: "17 13 * * *"   # 6:17 AM Pacific (daylight time); 5:17 AM in winter
+  workflow_dispatch: {}      # "Run workflow" button for an on-demand refresh
+  push:
+    branches: [main]
+    paths: ["site/**", "config/**", "scraper/**", ".github/workflows/daily.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Test matcher
+        run: python -m pytest -q tests
+
+      - name: Scrape, score and pick today's top 3
+        # Pushes that only touch the site skip scraping so edits deploy fast.
+        if: >-
+          github.event_name != 'push' ||
+          contains(format('{0},{1}', join(github.event.commits.*.modified, ','), join(github.event.commits.*.added, ',')), 'config/') ||
+          contains(format('{0},{1}', join(github.event.commits.*.modified, ','), join(github.event.commits.*.added, ',')), 'scraper/')
+        env:
+          TZ: America/Los_Angeles
+        run: python -m scraper.run
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add site/data/listings.json site/data/daily.json site/data/meta.json site/data/history.json
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "Daily refresh $(TZ=America/Los_Angeles date +%F)"
+            git pull --rebase origin main   # keep tracker.json edits synced from the site
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

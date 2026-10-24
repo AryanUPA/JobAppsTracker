@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Internship Radar</title>
+  <meta name="description" content="Aryan's Summer 2027 internship tracker: daily refreshed listings and three best-odds applications each day.">
+  <meta name="theme-color" content="#06163a">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%2389c2ff'/><stop offset='1' stop-color='%231a4fd6'/></linearGradient></defs><circle cx='32' cy='32' r='28' fill='url(%23g)'/><circle cx='32' cy='32' r='10' fill='none' stroke='white' stroke-width='4'/><path d='M32 32 L50 18' stroke='white' stroke-width='4' stroke-linecap='round'/></svg>">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="backdrop" aria-hidden="true">
+    <span class="orb o1"></span><span class="orb o2"></span><span class="orb o3"></span><span class="orb o4"></span>
+  </div>
+
+  <header class="top">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <div>
+        <h1 id="greeting">Internship Radar</h1>
+        <p class="sub" id="subline">Loading listings…</p>
+      </div>
+    </div>
+    <nav class="tabbar glass" role="tablist" aria-label="Sections">
+      <span class="tab-indicator" aria-hidden="true"></span>
+      <button role="tab" data-view="today" aria-selected="true">Today</button>
+      <button role="tab" data-view="listings">Listings</button>
+      <button role="tab" data-view="tracker">Tracker</button>
+      <button role="tab" data-view="sources">Sources</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="view-today" class="view active" role="tabpanel"></section>
+    <section id="view-listings" class="view" role="tabpanel"></section>
+    <section id="view-tracker" class="view" role="tabpanel"></section>
+    <section id="view-sources" class="view" role="tabpanel"></section>
+  </main>
+
+  <div class="sheet-scrim" id="scrim" hidden></div>
+  <aside class="sheet glass" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" hidden></aside>
+  <div class="toast glass" id="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

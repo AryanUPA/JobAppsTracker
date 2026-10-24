@@ -1,0 +1,34 @@
+{
+ "generated_at": "2026-10-24T15:44:17+00:00",
+ "sources": [
+  {
+   "source": "Curated seed list (live sources run on the next daily refresh)",
+   "ok": true,
+   "count": 17,
+   "at": "2026-10-24"
+  }
+ ],
+ "counts": {
+  "total": 17,
+  "eligible": 15,
+  "new_today": 15
+ },
+ "candidate": {
+  "name": "Aryan Upadhyaya",
+  "school": "San Jose State University",
+  "degree": "B.S. Electrical Engineering",
+  "grad_month": "2028-05",
+  "gpa": 3.39,
+  "work_authorization": "US Citizen",
+  "target_term": "Summer 2027"
+ },
+ "pick_rules": {
+  "daily_picks": 3,
+  "rate_limits": {
+   "zipline": {
+    "max": 3,
+    "days": 30
+   }
+  }
+ }
+}

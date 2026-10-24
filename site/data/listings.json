@@ -1,0 +1,1085 @@
+{
+ "generated_at": "2026-10-24T15:44:17+00:00",
+ "listings": [
+  {
+   "company": "Zipline",
+   "title": "Hardware Test Intern (Summer 2027)",
+   "locations": [
+    "South San Francisco, CA"
+   ],
+   "url": "https://www.zipline.com/open-roles/7903483003?gh_jid=7903483003",
+   "source": "Zipline careers (Greenhouse)",
+   "source_kind": "official",
+   "date_posted": "2026-08-19",
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "job_id": "7903483003",
+   "description": "Interpret datasheets and write basic drivers for new components. Fundamental electrical engineering principles. Experience with multimeters, oscilloscopes, power supplies. Nice to have: Python, foundational embedded C, software that interfaces with hardware and instrumentation. Test, validation, debug. Limit 3 Zipline applications per 30 days.",
+   "id": "a9203debf4b0",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Hardware Engineering",
+   "score": 69,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 30,
+     "detail": "Hardware Engineering"
+    },
+    {
+     "label": "Freshness",
+     "points": 0,
+     "detail": "posted 66d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 9,
+     "detail": "less saturated"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 10,
+     "detail": "python, embedded c, oscilloscope, multimeter, debug, test"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Zipline"
+    },
+    {
+     "label": "Confidence",
+     "points": 5,
+     "detail": "on employer's site, Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "Zipline",
+   "title": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
+   "locations": [
+    "South San Francisco, CA"
+   ],
+   "url": "https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003",
+   "source": "Zipline careers (Greenhouse)",
+   "source_kind": "official",
+   "date_posted": "2026-08-18",
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "job_id": "7891459003",
+   "description": "Embedded platforms (ESP32, STM, Arduino, Raspberry Pi). Experience with C/C++. Proficiency in Unix/Linux. Debug with logs and test equipment, sensors, power electronics. Ideally junior or senior.",
+   "id": "c2d9b7ff5432",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Embedded Systems",
+   "score": 65,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 29,
+     "detail": "Embedded Systems"
+    },
+    {
+     "label": "Freshness",
+     "points": 0,
+     "detail": "posted 67d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 9,
+     "detail": "less saturated"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 8,
+     "detail": "arduino, linux, sensor, debug, test"
+    },
+    {
+     "label": "Skill gaps",
+     "points": -1,
+     "detail": "c++"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Zipline"
+    },
+    {
+     "label": "Confidence",
+     "points": 5,
+     "detail": "on employer's site, Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "Intel",
+   "title": "Silicon Hardware Engineering Intern - Bachelor's",
+   "locations": [
+    "Folsom, CA",
+    "Santa Clara, CA",
+    "Hillsboro, OR",
+    "Phoenix, AZ"
+   ],
+   "url": "https://simplify.jobs/p/4ba241d0-99b3-4fa5-a8cc-38e1bc93ce59",
+   "source": "Simplify (aggregator)",
+   "source_kind": "aggregator",
+   "date_posted": "2026-09-23",
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "description": "Hardware design knowledge (RTL, Verilog, VLSI); validation and debug; scripting, data analysis, python. Bachelor's.",
+   "id": "82db8d80f76f",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Hardware Engineering",
+   "score": 64,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 30,
+     "detail": "Hardware Engineering"
+    },
+    {
+     "label": "Freshness",
+     "points": 2,
+     "detail": "posted 31d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 5,
+     "detail": "competitive"
+    },
+    {
+     "label": "Class-year friendly",
+     "points": 4,
+     "detail": "program targets undergrads/early career"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 6,
+     "detail": "verilog, python, debug"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Sacramento/Folsom"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Intel"
+    },
+    {
+     "label": "Confidence",
+     "points": 2,
+     "detail": "Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "Zipline",
+   "title": "Electrical Engineer Intern (Summer 2027)",
+   "locations": [
+    "South San Francisco, CA"
+   ],
+   "url": "https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003",
+   "source": "Zipline careers (Greenhouse)",
+   "source_kind": "official",
+   "date_posted": "2026-08-19",
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "job_id": "7903711003",
+   "description": "Completed second year of undergrad. Designed and tested a custom circuit board (PCB). Project that moved under its own power. Robotics, sensor, test. Bonus: C++.",
+   "id": "0f239adb13f9",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Electrical Engineering",
+   "score": 61,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 29,
+     "detail": "Electrical Engineering"
+    },
+    {
+     "label": "Freshness",
+     "points": 0,
+     "detail": "posted 66d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 9,
+     "detail": "less saturated"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 4,
+     "detail": "pcb, sensor, test"
+    },
+    {
+     "label": "Skill gaps",
+     "points": -1,
+     "detail": "c++"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Zipline"
+    },
+    {
+     "label": "Confidence",
+     "points": 5,
+     "detail": "on employer's site, Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "Western Digital",
+   "title": "Summer 2027 Intern - Hardware Engineering",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://www.builtinsf.com/job/summer-2027-intern-hardware-engineering/10482151",
+   "source": "BuiltIn SF (aggregator)",
+   "source_kind": "aggregator",
+   "date_posted": null,
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "description": "Skills via coursework, projects in embedded systems, firmware, ASIC/SoC, hardware development, validation, test, PCB, hardware bring-up, debug. Bachelor's students.",
+   "id": "bd5b0dafa092",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Hardware Engineering",
+   "score": 59,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 30,
+     "detail": "Hardware Engineering"
+    },
+    {
+     "label": "Freshness",
+     "points": 3,
+     "detail": "post date unknown"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 5,
+     "detail": "competitive"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 4,
+     "detail": "pcb, debug, test"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Western Digital"
+    },
+    {
+     "label": "Confidence",
+     "points": 2,
+     "detail": "Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "Zipline",
+   "title": "Firmware Engineer Intern (Summer 2027)",
+   "locations": [
+    "South San Francisco, CA"
+   ],
+   "url": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003",
+   "source": "Zipline careers (Greenhouse)",
+   "source_kind": "official",
+   "date_posted": "2026-10-09",
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "job_id": "8020865003",
+   "description": "C++ firmware for aircraft microcontrollers; Rust tooling and software-in-the-loop simulation; excellent grades in embedded systems classes.",
+   "id": "a8686f65800a",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Firmware",
+   "score": 59,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 27,
+     "detail": "Firmware"
+    },
+    {
+     "label": "Freshness",
+     "points": 4,
+     "detail": "posted 15d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 9,
+     "detail": "less saturated"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 2,
+     "detail": "microcontroller"
+    },
+    {
+     "label": "Skill gaps",
+     "points": -3,
+     "detail": "c++, rust"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Zipline"
+    },
+    {
+     "label": "Confidence",
+     "points": 5,
+     "detail": "on employer's site, Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "Lutron Electronics",
+   "title": "Summer 2027 - Embedded Firmware Engineering Intern",
+   "locations": [
+    "Austin, TX",
+    "Boston, MA"
+   ],
+   "url": "https://www.speedyapply.com/jobs/at/lutron/summer-2027-embedded-firmware-engineering-intern-austin-tx",
+   "source": "SpeedyApply (aggregator)",
+   "source_kind": "aggregator",
+   "date_posted": "2026-08-03",
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "deadline": "2026-10-31",
+   "description": "Bachelor's or Master's in EE, CE or CS. Cumulative GPA is at least 3.20. Rising junior, rising senior. Writing firmware for microprocessor-based products; debug, test. Deadline conflicting: Oct 31 vs Dec 1.",
+   "id": "e665266693c2",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Embedded Systems",
+   "score": 58,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 29,
+     "detail": "Embedded Systems"
+    },
+    {
+     "label": "Freshness",
+     "points": 0,
+     "detail": "posted 82d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 9,
+     "detail": "less saturated"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 2,
+     "detail": "debug, test"
+    },
+    {
+     "label": "Location",
+     "points": 7,
+     "detail": "Austin"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Lutron Electronics"
+    },
+    {
+     "label": "Confidence",
+     "points": 2,
+     "detail": "Summer 2027 confirmed"
+    },
+    {
+     "label": "Deadline soon",
+     "points": 4,
+     "detail": "7 days left"
+    }
+   ]
+  },
+  {
+   "company": "Qualcomm",
+   "title": "Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027",
+   "locations": [
+    "Santa Clara, CA",
+    "San Diego, CA",
+    "Austin, TX",
+    "Seattle, WA"
+   ],
+   "url": "https://www.indeed.com/q-hardware-engineering-internships-summer-2027-jobs.html",
+   "source": "Indeed (aggregator)",
+   "source_kind": "aggregator",
+   "date_posted": null,
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "description": "Programming experience in C, Perl, Verilog, SystemVerilog, C++, Python. Simulators, waveform viewers. Undergrad tracks.",
+   "id": "dd08de6f4713",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Hardware Engineering",
+   "score": 58,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 30,
+     "detail": "Hardware Engineering"
+    },
+    {
+     "label": "Freshness",
+     "points": 3,
+     "detail": "post date unknown"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 5,
+     "detail": "competitive"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 6,
+     "detail": "verilog, python, git"
+    },
+    {
+     "label": "Skill gaps",
+     "points": -3,
+     "detail": "systemverilog, c++"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Qualcomm"
+    },
+    {
+     "label": "Confidence",
+     "points": 2,
+     "detail": "Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "AMD",
+   "title": "2027 Undergrad Firmware Engineering Intern/Co-op",
+   "locations": [
+    "Austin, TX",
+    "Boxborough, MA"
+   ],
+   "url": "https://careers.amd.com/careers-home/jobs/90801?lang=en-us",
+   "source": "AMD careers",
+   "source_kind": "official",
+   "date_posted": null,
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "job_id": "90801",
+   "description": "Currently enrolled in a US based university in a Bachelor's program in EE, CS, CE. Firmware for discrete and embedded products. Git, JIRA, FPGA.",
+   "id": "3d100a59ca39",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Firmware",
+   "score": 57,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 27,
+     "detail": "Firmware"
+    },
+    {
+     "label": "Freshness",
+     "points": 3,
+     "detail": "post date unknown"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 5,
+     "detail": "competitive"
+    },
+    {
+     "label": "Class-year friendly",
+     "points": 4,
+     "detail": "program targets undergrads/early career"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 1,
+     "detail": "git"
+    },
+    {
+     "label": "Location",
+     "points": 7,
+     "detail": "Austin"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "AMD"
+    },
+    {
+     "label": "Confidence",
+     "points": 5,
+     "detail": "on employer's site, Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "AMD",
+   "title": "2027 Undergrad Hardware Design Verification Engineering Co-op/Intern",
+   "locations": [
+    "Austin, TX",
+    "Boxborough, MA"
+   ],
+   "url": "https://www.dice.com/job-detail/02b28794-269a-481f-921f-0632865933dc",
+   "source": "Dice (aggregator)",
+   "source_kind": "aggregator",
+   "date_posted": null,
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "description": "Logic design fundamentals (FSM, gates, registers, flops, timing, HDL). C, C++, Python, Perl, UVM, SystemVerilog.",
+   "id": "e30d2de2c324",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Hardware Engineering",
+   "score": 55,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 30,
+     "detail": "Hardware Engineering"
+    },
+    {
+     "label": "Freshness",
+     "points": 3,
+     "detail": "post date unknown"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 5,
+     "detail": "competitive"
+    },
+    {
+     "label": "Class-year friendly",
+     "points": 4,
+     "detail": "program targets undergrads/early career"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 5,
+     "detail": "verilog, python"
+    },
+    {
+     "label": "Skill gaps",
+     "points": -6,
+     "detail": "systemverilog, uvm, c++"
+    },
+    {
+     "label": "Location",
+     "points": 7,
+     "detail": "Austin"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "AMD"
+    },
+    {
+     "label": "Confidence",
+     "points": 2,
+     "detail": "Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "Marvell",
+   "title": "Functional Validation Intern, BS - Summer 2027",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://simplify.jobs/p/2efbdbb6-799e-4b37-8c81-68bf168efb5f",
+   "source": "Simplify (aggregator)",
+   "source_kind": "aggregator",
+   "date_posted": "2026-09-23",
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "description": "Bachelor's in EE, CE or CS with an expected graduation date between Fall 2027 and Summer 2028. Silicon validation lab, high-speed interfaces, debug.",
+   "id": "0adf5a67519c",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Validation / Bring-up",
+   "score": 55,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 27,
+     "detail": "Validation / Bring-up"
+    },
+    {
+     "label": "Freshness",
+     "points": 2,
+     "detail": "posted 31d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 5,
+     "detail": "competitive"
+    },
+    {
+     "label": "Class-year friendly",
+     "points": 3,
+     "detail": "program targets undergrads/early career"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 1,
+     "detail": "debug"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Marvell"
+    },
+    {
+     "label": "Confidence",
+     "points": 2,
+     "detail": "Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "Apple",
+   "title": "Hardware Undergrad Engineering Internships",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "url": "https://jobs.anitab.org/companies/apple/jobs/79822650-hardware-undergrad-engineering-internships",
+   "source": "AnitaB.org (aggregator)",
+   "source_kind": "aggregator",
+   "date_posted": "2026-05-22",
+   "terms": [],
+   "active": true,
+   "description": "Pursuing a BS in EE/CE. Microcontroller code development, prototyping, design verification (FPGA), firmware development. Term year not confirmed.",
+   "id": "220d8cf3163b",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Hardware Engineering",
+   "score": 53,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 30,
+     "detail": "Hardware Engineering"
+    },
+    {
+     "label": "Freshness",
+     "points": 0,
+     "detail": "posted 155d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 2,
+     "detail": "very competitive"
+    },
+    {
+     "label": "Class-year friendly",
+     "points": 4,
+     "detail": "program targets undergrads/early career"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 2,
+     "detail": "microcontroller"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Apple"
+    }
+   ]
+  },
+  {
+   "company": "Marvell",
+   "title": "Test Engineering Intern - Summer 2027",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://simplify.jobs/p/42bb8910-fbb6-4347-8dc5-8aeee11d2517",
+   "source": "Simplify (aggregator)",
+   "source_kind": "aggregator",
+   "date_posted": "2026-09-21",
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "description": "Pursuing a Bachelor's in EE/CE. New product introduction test engineering, silicon bring-up, characterization, production test programs.",
+   "id": "dc3aadf6c8fd",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Validation / Bring-up",
+   "score": 52,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 27,
+     "detail": "Validation / Bring-up"
+    },
+    {
+     "label": "Freshness",
+     "points": 2,
+     "detail": "posted 33d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 5,
+     "detail": "competitive"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 1,
+     "detail": "test"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Marvell"
+    },
+    {
+     "label": "Confidence",
+     "points": 2,
+     "detail": "Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "title": "NVIDIA 2027 Internships: Hardware Engineering",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://app.joinrunway.io/explore/job/cmszv5tpf0013b20icksbijxn",
+   "source": "Runway (aggregator)",
+   "source_kind": "aggregator",
+   "date_posted": "2026-09-23",
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "description": "Bachelor's, Master's or PhD in EE/CE. Verilog, SystemVerilog, Python, Linux, printed circuit boards, oscilloscopes, multimeters, logic analyzers. Hardware testing, debug, validation.",
+   "id": "c61ffa33d32e",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Hardware Engineering",
+   "score": 51,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 30,
+     "detail": "Hardware Engineering"
+    },
+    {
+     "label": "Freshness",
+     "points": 2,
+     "detail": "posted 31d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 2,
+     "detail": "very competitive"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 10,
+     "detail": "verilog, python, linux, oscilloscope, multimeter, debug"
+    },
+    {
+     "label": "Skill gaps",
+     "points": -10,
+     "detail": "systemverilog, phd"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "NVIDIA"
+    },
+    {
+     "label": "Confidence",
+     "points": 2,
+     "detail": "Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "Marvell",
+   "title": "Design Verification Intern - BS, Summer 2027",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://simplify.jobs/p/42f8685d-3645-46c3-a294-714913841320",
+   "source": "Simplify (aggregator)",
+   "source_kind": "aggregator",
+   "date_posted": "2026-09-24",
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": true,
+   "description": "Bachelor's in EE/CE with an expected graduation date between Fall 2027 and Summer 2028. Verilog, SystemVerilog, UVM.",
+   "id": "f2668afd08fd",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": null,
+   "category": "Digital Design / Verification",
+   "score": 50,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 26,
+     "detail": "Digital Design / Verification"
+    },
+    {
+     "label": "Freshness",
+     "points": 4,
+     "detail": "posted 30d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 5,
+     "detail": "competitive"
+    },
+    {
+     "label": "Skill overlap",
+     "points": 3,
+     "detail": "verilog"
+    },
+    {
+     "label": "Skill gaps",
+     "points": -5,
+     "detail": "systemverilog, uvm"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Marvell"
+    },
+    {
+     "label": "Confidence",
+     "points": 2,
+     "detail": "Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "NVIDIA",
+   "title": "NVIDIA Ignite Hardware Engineering Internship (Summer 2027)",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://www.extern.com/post/nvidia-ignite-program-guide",
+   "source": "Extern (aggregator)",
+   "source_kind": "aggregator",
+   "date_posted": "2026-10-05",
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": false,
+   "deadline": "2026-10-18",
+   "job_id": "JR2027047",
+   "description": "First and second year students. Closed October 18, 2026.",
+   "id": "09dec6e9dd30",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": "Posting closed",
+   "category": "Hardware Engineering",
+   "score": 59,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 30,
+     "detail": "Hardware Engineering"
+    },
+    {
+     "label": "Freshness",
+     "points": 4,
+     "detail": "posted 19d ago"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 2,
+     "detail": "very competitive"
+    },
+    {
+     "label": "Class-year friendly",
+     "points": 6,
+     "detail": "program targets undergrads/early career"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "NVIDIA"
+    },
+    {
+     "label": "Confidence",
+     "points": 2,
+     "detail": "Summer 2027 confirmed"
+    }
+   ]
+  },
+  {
+   "company": "Google",
+   "title": "Hardware Engineering Intern, BS/MS, Summer 2027",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "url": "https://google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bsms-summer-2027",
+   "source": "Google careers",
+   "source_kind": "official",
+   "date_posted": null,
+   "terms": [
+    "Summer 2027"
+   ],
+   "active": false,
+   "deadline": "2026-10-09",
+   "job_id": "122803627516404422",
+   "description": "Closed October 9, 2026.",
+   "id": "e12191f3c40f",
+   "first_seen": "2026-10-24",
+   "also_seen_on": [],
+   "ineligible": "Posting closed",
+   "category": "Hardware Engineering",
+   "score": 57,
+   "breakdown": [
+    {
+     "label": "Role fit",
+     "points": 30,
+     "detail": "Hardware Engineering"
+    },
+    {
+     "label": "Freshness",
+     "points": 3,
+     "detail": "post date unknown"
+    },
+    {
+     "label": "Odds at this employer",
+     "points": 2,
+     "detail": "very competitive"
+    },
+    {
+     "label": "Class-year friendly",
+     "points": 2,
+     "detail": "program targets undergrads/early career"
+    },
+    {
+     "label": "Location",
+     "points": 10,
+     "detail": "Bay Area"
+    },
+    {
+     "label": "Target company",
+     "points": 5,
+     "detail": "Google"
+    },
+    {
+     "label": "Confidence",
+     "points": 5,
+     "detail": "on employer's site, Summer 2027 confirmed"
+    }
+   ]
+  }
+ ]
+}

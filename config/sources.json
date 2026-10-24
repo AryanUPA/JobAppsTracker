@@ -1,0 +1,32 @@
+{
+  "_comment": "Each source is fetched once a day. A source that fails is logged in site/data/meta.json and skipped; the others still run. Add companies by copying an entry.",
+  "simplify": {
+    "enabled": true,
+    "listings_urls": [
+      "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"
+    ],
+    "readme_fallback_urls": [
+      "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md"
+    ]
+  },
+  "greenhouse": [
+    {"company": "Zipline",  "board": "flyzipline"},
+    {"company": "Etched",   "board": "etched"},
+    {"company": "Verkada",  "board": "verkada"},
+    {"company": "Anduril",  "board": "andurilindustries"},
+    {"company": "Skydio",   "board": "skydio"},
+    {"company": "Astera Labs", "board": "asteralabs"}
+  ],
+  "lever": [
+    {"company": "Pivotal",  "slug": "pivotal"}
+  ],
+  "workday": [
+    {"company": "NVIDIA",          "host": "nvidia.wd5.myworkdayjobs.com",  "tenant": "nvidia",  "site": "NVIDIAExternalCareerSite"},
+    {"company": "Intel",           "host": "intel.wd1.myworkdayjobs.com",   "tenant": "intel",   "site": "External"},
+    {"company": "Marvell",         "host": "marvell.wd1.myworkdayjobs.com", "tenant": "marvell", "site": "MarvellCareers"},
+    {"company": "Western Digital", "host": "wd.wd1.myworkdayjobs.com",      "tenant": "wd",      "site": "WD_External"},
+    {"company": "Sandisk",         "host": "sandisk.wd1.myworkdayjobs.com", "tenant": "sandisk", "site": "Sandisk"}
+  ],
+  "workday_search_terms": ["intern 2027", "summer 2027 intern"],
+  "max_detail_fetches_per_source": 40
+}

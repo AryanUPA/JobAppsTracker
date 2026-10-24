@@ -1,0 +1,505 @@
+{
+  "_comment": "Edit this file to tune matching. Weights are points; the total score is capped at 100.",
+  "candidate": {
+    "name": "Aryan Upadhyaya",
+    "school": "San Jose State University",
+    "degree": "B.S. Electrical Engineering",
+    "grad_month": "2028-05",
+    "gpa": 3.39,
+    "work_authorization": "US Citizen",
+    "target_term": "Summer 2027"
+  },
+  "role_categories": [
+    {
+      "name": "Hardware Engineering",
+      "weight": 30,
+      "keywords": [
+        "hardware engineer",
+        "hardware engineering",
+        "hardware development",
+        "hardware design",
+        "hardware intern",
+        "hardware test",
+        "hardware systems",
+        " hardware "
+      ]
+    },
+    {
+      "name": "Electrical Engineering",
+      "weight": 29,
+      "keywords": [
+        "electrical engineer",
+        "electrical engineering",
+        "electronics engineer",
+        "ee intern",
+        "power electronics",
+        "pcb"
+      ]
+    },
+    {
+      "name": "Embedded Systems",
+      "weight": 29,
+      "keywords": [
+        "embedded"
+      ]
+    },
+    {
+      "name": "FPGA / RTL Design",
+      "weight": 27,
+      "keywords": [
+        "fpga",
+        "rtl",
+        "asic design",
+        "logic design"
+      ]
+    },
+    {
+      "name": "Digital Design / Verification",
+      "weight": 26,
+      "keywords": [
+        "digital design",
+        "design verification",
+        "verification",
+        " dv "
+      ]
+    },
+    {
+      "name": "SoC / VLSI",
+      "weight": 25,
+      "keywords": [
+        "soc",
+        "vlsi",
+        "silicon",
+        "physical design",
+        "design for test",
+        "dft",
+        "chip"
+      ]
+    },
+    {
+      "name": "Validation / Bring-up",
+      "weight": 27,
+      "keywords": [
+        "validation",
+        "bring-up",
+        "bringup",
+        "test engineer",
+        "test engineering",
+        "test intern",
+        "post-silicon"
+      ]
+    },
+    {
+      "name": "Firmware",
+      "weight": 27,
+      "keywords": [
+        "firmware"
+      ]
+    },
+    {
+      "name": "Computer Architecture",
+      "weight": 23,
+      "keywords": [
+        "computer architecture",
+        "cpu",
+        "gpu architecture",
+        "performance architecture"
+      ]
+    },
+    {
+      "name": "Storage / Memory",
+      "weight": 24,
+      "keywords": [
+        "nand",
+        "ssd",
+        "flash",
+        "memory",
+        "storage",
+        "dram"
+      ]
+    },
+    {
+      "name": "Technical Support Eng",
+      "weight": 18,
+      "keywords": [
+        "technical support",
+        "support engineer",
+        "applications engineer",
+        "field application"
+      ]
+    },
+    {
+      "name": "Data / AI (technical)",
+      "weight": 12,
+      "keywords": [
+        "machine learning",
+        "data engineer",
+        "ai engineer",
+        "data science"
+      ]
+    }
+  ],
+  "exclude_title_keywords": [
+    "phd",
+    "ph.d",
+    "masters",
+    "master's",
+    "mba",
+    "senior",
+    "staff ",
+    "principal",
+    "manager",
+    "new grad",
+    "new college grad",
+    "full-time",
+    "full time",
+    "mechanical",
+    "marketing",
+    "finance",
+    "accounting",
+    "sales",
+    "legal",
+    "recruit",
+    "human resources",
+    "supply chain",
+    "business"
+  ],
+  "allow_if_also_contains": [
+    "bs/ms",
+    "bachelor",
+    "undergrad"
+  ],
+  "positive_title_keywords": {
+    "sophomore": 8,
+    "freshman": 6,
+    "early career": 6,
+    "ignite": 6,
+    "explore": 5,
+    "first-year": 5,
+    "undergrad": 4,
+    "bachelor": 4,
+    "bs ": 3,
+    "bs/ms": 2
+  },
+  "skills": {
+    "have": {
+      "verilog": 3,
+      "arduino": 3,
+      "python": 2,
+      "linux": 2,
+      "embedded c": 3,
+      " c ": 1,
+      "microcontroller": 2,
+      "oscilloscope": 2,
+      "multimeter": 2,
+      "soldering": 2,
+      "pcb": 2,
+      "sensor": 1,
+      "motor": 1,
+      "debug": 1,
+      "test": 1,
+      "rest api": 1,
+      "cron": 1,
+      "git": 1,
+      "quartus": 2,
+      "digital logic": 2
+    },
+    "gaps": {
+      "systemverilog": -2,
+      "uvm": -3,
+      "c++": -1,
+      "rust": -2,
+      "rtos": -1,
+      "cadence": -2,
+      "spice": -1,
+      "phd": -10,
+      "master's degree": -6
+    }
+  },
+  "locations": [
+    {
+      "label": "Bay Area",
+      "points": 10,
+      "keywords": [
+        "san jose",
+        "santa clara",
+        "sunnyvale",
+        "mountain view",
+        "cupertino",
+        "palo alto",
+        "milpitas",
+        "san francisco",
+        "south san francisco",
+        "fremont",
+        "menlo park",
+        "redwood city",
+        "san mateo",
+        "bay area",
+        "foster city",
+        "hayward",
+        "oakland",
+        "berkeley",
+        "half moon bay",
+        "alameda",
+        "san carlos"
+      ]
+    },
+    {
+      "label": "Sacramento/Folsom",
+      "points": 10,
+      "keywords": [
+        "folsom",
+        "sacramento",
+        "roseville",
+        "rancho cordova",
+        "el dorado hills",
+        "davis"
+      ]
+    },
+    {
+      "label": "Remote",
+      "points": 8,
+      "keywords": [
+        "remote"
+      ]
+    },
+    {
+      "label": "Southern California",
+      "points": 8,
+      "keywords": [
+        "los angeles",
+        "san diego",
+        "irvine",
+        "pasadena",
+        "santa monica",
+        "el segundo",
+        "torrance",
+        "hawthorne",
+        "long beach",
+        "carlsbad",
+        "thousand oaks",
+        "westlake village",
+        "camarillo",
+        "playa vista",
+        "costa mesa",
+        "orange county"
+      ]
+    },
+    {
+      "label": "Seattle",
+      "points": 7,
+      "keywords": [
+        "seattle",
+        "redmond",
+        "bellevue",
+        "kirkland"
+      ]
+    },
+    {
+      "label": "Austin",
+      "points": 7,
+      "keywords": [
+        "austin"
+      ]
+    },
+    {
+      "label": "Boston",
+      "points": 7,
+      "keywords": [
+        "boston",
+        "cambridge",
+        "boxborough",
+        "waltham",
+        "burlington, ma",
+        "north reading",
+        "andover",
+        "somerville"
+      ]
+    },
+    {
+      "label": "Other US",
+      "points": 3,
+      "keywords": []
+    }
+  ],
+  "non_us_keywords": [
+    "canada",
+    "ontario",
+    "toronto",
+    "vancouver",
+    "markham",
+    "ottawa",
+    "india",
+    "bangalore",
+    "bengaluru",
+    "hyderabad",
+    "china",
+    "shanghai",
+    "beijing",
+    "taiwan",
+    "taipei",
+    "israel",
+    "germany",
+    "uk",
+    "london",
+    "united kingdom",
+    "ireland",
+    "japan",
+    "korea",
+    "singapore",
+    "mexico",
+    "poland",
+    "netherlands",
+    "france",
+    "spain",
+    "malaysia",
+    "vietnam",
+    "philippines",
+    "costa rica",
+    "romania",
+    "serbia"
+  ],
+  "company_preference": {
+    "points": 5,
+    "companies": [
+      "apple",
+      "nvidia",
+      "amd",
+      "intel",
+      "qualcomm",
+      "broadcom",
+      "google",
+      "microsoft",
+      "amazon",
+      "lab126",
+      "meta",
+      "tesla",
+      "sandisk",
+      "kioxia",
+      "onsemi",
+      "celestica",
+      "pivotal",
+      "etched",
+      "verkada",
+      "western digital",
+      "marvell",
+      "micron",
+      "texas instruments",
+      "analog devices",
+      "zipline",
+      "spacex",
+      "anduril",
+      "lutron",
+      "cirrus logic",
+      "skydio",
+      "lucid",
+      "rivian",
+      "seagate",
+      "samsung",
+      "sk hynix",
+      "cisco",
+      "arista",
+      "juniper",
+      "lam research",
+      "kla",
+      "applied materials",
+      "synopsys",
+      "cadence",
+      "astera labs",
+      "cerebras",
+      "sambanova",
+      "tenstorrent",
+      "groq",
+      "d-matrix",
+      "joby",
+      "archer"
+    ]
+  },
+  "competitiveness": {
+    "_comment": "Higher tier = harder to land as a second-year. Tier points are added to interview likelihood.",
+    "tiers": [
+      {
+        "points": 2,
+        "companies": [
+          "google",
+          "apple",
+          "nvidia",
+          "meta",
+          "openai",
+          "anthropic",
+          "jane street",
+          "citadel",
+          "hudson river",
+          "imc",
+          "jump trading",
+          "optiver",
+          "two sigma",
+          "de shaw",
+          "spacex",
+          "tesla"
+        ]
+      },
+      {
+        "points": 5,
+        "companies": [
+          "microsoft",
+          "amazon",
+          "qualcomm",
+          "amd",
+          "intel",
+          "broadcom",
+          "marvell",
+          "micron",
+          "cisco",
+          "texas instruments",
+          "analog devices",
+          "western digital",
+          "sandisk",
+          "anduril"
+        ]
+      },
+      {
+        "points": 9,
+        "companies": []
+      }
+    ],
+    "default_points": 9
+  },
+  "recency_points": [
+    [
+      3,
+      12
+    ],
+    [
+      7,
+      10
+    ],
+    [
+      14,
+      7
+    ],
+    [
+      30,
+      4
+    ],
+    [
+      60,
+      2
+    ],
+    [
+      99999,
+      0
+    ]
+  ],
+  "rate_limits": {
+    "_comment": "Max applications per company per window (days). Used when picking daily top 3.",
+    "zipline": {
+      "max": 3,
+      "days": 30
+    }
+  },
+  "gpa_exclude_if_required_above": 3.39,
+  "require_summer_2027": true,
+  "daily_picks": 3,
+  "max_listing_age_days": 120
+}
